@@ -1,4 +1,4 @@
-# Lyrics_Search_App
+# Lyrics Searcher
 🎵 A handy app to search by lyrics any song stuck in your head!
 
 ## Description
