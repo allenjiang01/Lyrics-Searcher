@@ -8,8 +8,11 @@ textbox, the app will return the top 3 matches to that search. Each result will 
 you will never have to be afraid of spending hours wondering the name of a song!
 
 ## Screenshot
-![Capture](https://user-images.githubusercontent.com/89439262/181219364-5c70d50f-077e-4599-a339-1ddf4a976c6b.PNG)
+![Capture2](https://user-images.githubusercontent.com/89439262/182359084-968460e0-18f3-4996-845b-925a9aedd0d4.PNG)
+![Capture](https://user-images.githubusercontent.com/89439262/182359061-b665933a-c214-4893-b40e-916a92d26b01.PNG)
+
 
 ## Notes
 - Gui created with tkinter
-- Search completed by webscraping lyrics.com
+- Web scraping done with response and beautifulsoup4
+- Search completed by web scraping lyrics.com
