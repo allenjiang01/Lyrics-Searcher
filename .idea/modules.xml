@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Lyrics_Search_App.iml" filepath="$PROJECT_DIR$/.idea/Lyrics_Search_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lyrics Searcher.iml" filepath="$PROJECT_DIR$/.idea/Lyrics Searcher.iml" />
     </modules>
   </component>
 </project>
